@@ -1,10 +1,10 @@
 # Default owner
-@nyousuf 
+@nyousuf99
 
 # Core platform restrictions 
 
-/src @nyousuf
-/dbt @nyousuf
-/airflow @nyousuf
-/docker @nyousuf
-/infra @nyousuf
+/src @nyousuf99
+/dbt @nyousuf99
+/airflow @nyousuf99
+/docker @nyousuf99
+/infra @nyousuf99
