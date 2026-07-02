@@ -1,1 +1,10 @@
-[project]
+# Default owner
+@nyousuf 
+
+# Core platform restrictions 
+
+/src @nyousuf
+/dbt @nyousuf
+/airflow @nyousuf
+/docker @nyousuf
+/infra @nyousuf
